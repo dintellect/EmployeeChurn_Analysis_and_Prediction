@@ -87,3 +87,7 @@ Below are the ML models used for the predictions:
 Later, Bootstrap Aggregating ensemble method was used to get the final prediction.
 
 ## Quick Links
+
+1. [data set]
+2. [prediction model & feature importance notebook]
+3. [exploratory visualization notebook]
