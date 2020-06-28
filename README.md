@@ -72,7 +72,7 @@ The feature/variable importance have been calculated using Random forest and gra
 
 Here is an intersting bar graph created using RF model for feature importance:
 <br>
-![alt text](image/rf.png)
+![alt text](image/rf.PNG)
 <br>
 
 ## Prediction Model
