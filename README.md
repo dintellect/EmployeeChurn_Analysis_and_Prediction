@@ -72,7 +72,7 @@ The feature/variable importance have been calculated using Random forest and gra
 
 Here is an intersting bar graph created using RF model for feature importance:
 <br>
-![alt text](images/rf.png)
+![alt text](image/rf.png)
 <br>
 
 ## Prediction Model
@@ -88,6 +88,7 @@ Later, Bootstrap Aggregating ensemble method was used to get the final predictio
 
 ## Quick Links
 
-1. [data set]
-2. [prediction model & feature importance notebook]
-3. [exploratory visualization notebook]
+1. [data set](https://github.com/dintellect/EmployeeChurn_Analysis_and_Prediction/blob/master/Employeechurn.csv)
+2. [exploratory visualization notebook](https://github.com/dintellect/EmployeeChurn_Analysis_and_Prediction/blob/master/Graphs.ipynb)
+3. [prediction model & feature importance notebook](https://github.com/dintellect/EmployeeChurn_Analysis_and_Prediction/blob/master/Models.ipynb)
+
