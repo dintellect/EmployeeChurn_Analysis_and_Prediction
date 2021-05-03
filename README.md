@@ -88,7 +88,6 @@ Later, Bootstrap Aggregating ensemble method was used to get the final predictio
 
 ## Quick Links
 
-1. [data set](https://github.com/dintellect/EmployeeChurn_Analysis_and_Prediction/blob/master/Employeechurn.csv)
-2. [exploratory visualization notebook](https://github.com/dintellect/EmployeeChurn_Analysis_and_Prediction/blob/master/Graphs.ipynb)
-3. [prediction model & feature importance notebook](https://github.com/dintellect/EmployeeChurn_Analysis_and_Prediction/blob/master/Models.ipynb)
+1. [exploratory visualization notebook](https://github.com/dintellect/EmployeeChurn_Analysis_and_Prediction/blob/master/Graphs.ipynb)
+2. [prediction model & feature importance notebook](https://github.com/dintellect/EmployeeChurn_Analysis_and_Prediction/blob/master/Models.ipynb)
 
