@@ -66,6 +66,10 @@ Below are the key indicators we have considered to analyze and predict employee 
 > 28. Stock Option Level
 > 29. Work Life Balance
 
+## Dataset Snapshot
+
+![image](https://user-images.githubusercontent.com/39694387/116891850-946e4280-ac05-11eb-89ca-22c5bd094eb2.png)
+
 ## Understanding Features and their importance:
 
 The feature/variable importance have been calculated using Random forest and gradient boosting machine learning models.
